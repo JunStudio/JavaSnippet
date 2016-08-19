@@ -1,4 +1,4 @@
-package net.junstudio;
+package net.junstudio.snippet;
 
 public class Main {
 
